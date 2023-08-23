@@ -1,0 +1,25 @@
+[
+    {
+        "name": "directory",
+        "extension": ".json",
+        "type": "file"
+    },
+    {
+        "name": "dz1",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "dz2",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "test1",
+        "type": "directory"
+    },
+    {
+        "name": "test2",
+        "type": "directory"
+    }
+]
